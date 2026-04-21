@@ -1,0 +1,6 @@
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/CMakeFiles/EstacaoMeteorologicaTrab.dir
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

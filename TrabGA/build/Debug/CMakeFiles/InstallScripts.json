@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/cmake_install.cmake",
+		"C:/Users/I755899/Desktop/SistemasEmbarcados/TrabGrauA/EstacaoMeteorologicaTrab/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
